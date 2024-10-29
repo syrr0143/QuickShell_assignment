@@ -4,7 +4,7 @@
 - Roll No.: 2101202cs
 - Email (College): sumit.2101202cs@iiitbh.ac.in
 - Email (Personal): yadav.sumit.works@gmail.com
-- Hosted Site:
+- Hosted Site: [Click here to view.](https://quick-shell-assignment-alpha.vercel.app/)
 
 # Kanban Board Application
 
@@ -40,7 +40,7 @@ This project is a Kanban board application that fetches ticket data from an exte
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/kanban-board-app.git
+   git clone https://github.com/syrr0143/QuickShell_assignment.git
    cd kanban-board-app
    ```
 
@@ -102,4 +102,4 @@ Pure CSS was used to ensure the design matches the provided screenshots precisel
 
 ## Live Demo
 
-You can view the **live demo** [here](https://your-deployed-link.com).
+You can view the **live demo** [here](https://quick-shell-assignment-alpha.vercel.app/).
